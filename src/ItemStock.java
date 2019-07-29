@@ -29,5 +29,7 @@ public class ItemStock {
         this.computadora = computadora;
     }
     
-    
+    int getCantidad(){
+        return cantidad;
+    }
 }
